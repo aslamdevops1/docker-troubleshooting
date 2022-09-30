@@ -1,6 +1,6 @@
 # Docker Troubleshooting
 
-The Docker app hello-world when deployed is unhealthy!  Troubleshoot and implement to a healthy deployment.
+The Docker app hello-world when deployed is now healthy! 
 
 ![image](https://user-images.githubusercontent.com/114646597/193172557-1fb6b23a-e0cb-4904-b5c8-bff1b87f4e6a.png)
 
